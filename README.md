@@ -21,7 +21,7 @@ O objetivo é reforçar a lógica de programação e a manipulação da interfac
 
   ## 📷 Demonstração
 
-<img src="https://github.com/edumagalhaess/jokenpo-starwars/blob/main/assets/studio-ghibli.png">
+<img src="https://github.com/edumagalhaess/jokenpo-starwars/blob/main/assets/mockup project.png"> 
 
 
 ## 📚 Aprendizado
